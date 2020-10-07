@@ -1,3 +1,3 @@
 ## README.md - rewritten
 
-Nnew version after chaos!
+New version after chaos!
